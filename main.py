@@ -9,3 +9,5 @@ NAME = "Earth"
 print(TITLE)
 
 print(NAME)
+
+print("Hello World")
